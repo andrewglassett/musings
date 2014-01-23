@@ -1,7 +1,7 @@
 Musings
 =======
 
-Trying markdown
+Food Stuff
 ---------------
 
-Suprisingly, I haven't learned markdown. This is my little playground to not only do some md practice, but to keep my writing skills sharp.
+I'm obsessed with food, just like about everyone else I know. This is my take.
