@@ -1,7 +1,7 @@
 Musings
 =======
 
-Trying markdown
----------------
+Ye Olde Place for Thoughts
+--------------------------
 
-Suprisingly, I haven't learned markdown. This is my little playground to not only do some md practice, but to keep my writing skills sharp.
+On occasion I have a thought that I think is interesting. This is where I will be placing those thoughts.
