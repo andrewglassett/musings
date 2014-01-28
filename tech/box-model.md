@@ -1,7 +1,6 @@
 ---
 title: 'Box Model'
 date: '1/28/2014'
-layout: ''
 ---
 
 Box Model
@@ -17,4 +16,4 @@ A few topics I am looking to cover:
 
 > What limitations are good for you
 > Are we working against limitations or striving because of them
-> Is it better to have all the options, or be forced to follow set of guidelines
+> Is it better to have all the options, or be forced to follow set of guidelines?
