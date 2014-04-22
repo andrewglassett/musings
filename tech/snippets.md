@@ -1,0 +1,1 @@
+ffmpeg -i vine.mp4 -vf scale=1000:-1,format=rgb8,format=rgb24 -t 10 -r 10 output_compressed.gif

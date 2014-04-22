@@ -34,3 +34,22 @@ Together we can find out.
 >   You develop
 > Launch and Learn
 
+For the site:
+#What were the business challenges?
+This could be something as simple as a sentence or two that indicates what problem you were solving.
+
+#What was your approach?
+Surely you evaluated / tried things and settled on a solution…Note these down and the decision-making that went into how you came to your conclusions.
+
+#What was that process like?
+What were the lessons learned? What compromises were made and how did the effect the final product?
+
+#What was the result?
+When did you say ‘finished’? Was it when you handed the work off to the client or is it every two weeks when you track user engagement with a new app or game?
+
+#How did you measure success / failure?
+Surely not everything you work on is a smashing success. What did you use to evaluate the results of your labor? How does your boss, or bosses’ boss, know that what you worked on turned out to be a success for the company? How is it measured? Is there a percentage increase that is important to the business?
+
+Simply thinking in these terms, and communicating this to those you are interviewing with / for, will help put you ahead of 99% of other candidates that roll in the door with shiny wireframes.
+
+Try ditching the portfolio for once and focus everyone’s attention on you as a problem-solver, not a draftsman (or woman). You’ll be able to (re) invent yourself in a way where your value increases exponentially since you can solve business challenges and draw a straight line.
